@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development (mostly the styling part) 
 - 🌱 I’m currently learning JavaScript 
 - 📫 How to reach me ...
-- 😄 Pronouns: ShvenZ06.
+- 😄 Pronouns: him.
 - ⚡ Fun fact: ...
 
 <!---
