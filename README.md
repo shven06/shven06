@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @shven06
-- 👀 I’m interested in web development (mostly the styling part) 
-- 🌱 I’m currently learning JavaScript 
-- 📫 How to reach me ...
+- 👀 Eccentric, Eclectic and Electric Developer
+- 🌱 I’m currently learning Networks and Big data analysis
+- 📫 How to reach me shuchindra.manjunath@gmail.com
 - 😄 Pronouns: him.
-- ⚡ Fun fact: ...
 
 <!---
 shven06/shven06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
